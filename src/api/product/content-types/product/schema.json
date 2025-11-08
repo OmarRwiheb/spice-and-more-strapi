@@ -14,6 +14,9 @@
     "name": {
       "type": "string"
     },
+    "description": {
+      "type": "text"
+    },
     "category": {
       "type": "enumeration",
       "enum": [
